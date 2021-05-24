@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# react-portofolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* [links](#links)
+* [Description](#description)
+* [Built With](#builtwith)
+* [Installation](#installation)
+* [Screenshots](#screenshots)
+* [Questions](#questions)
 
-## Available Scripts
 
-In the project directory, you can run:
+## links
 
-### `yarn start`
+[Repository link](https://github.com/pfotis/reactportofolio)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[website link](https://pfotis.github.io/reactportofolio/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Description
 
-### `yarn test`
+    As full stack developer i built my portofolio in the github to include my projects with links for
+    the webpage and the repository for each individual project. Information about me , my study in the 
+    bootcamp and the past and my Knowledgment in the coding. Finaly contact there are link of my github 
+    account and my linkedin acount , my personal email and mobile number additional link to see my resume.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
 
-### `yarn build`
+    React.js
+    HTML
+    CSS
+    Javascript
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    npx create-react-app react-portofolio
+ 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `yarn eject`
+    With the following pictures the user could see the outfit of this project.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<img src="./public/assets/images/readme/about.png" alt="about">
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<img src="./public/assets/images/readme/portofolio.png" alt="portofolio">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<img src="./public/assets/images/readme/contact.png" alt="contact">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Questions
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    For any questions about this repository, please contact me at pfotis@gmail.com
+    View my work in GitHub pfotis(https://github.com/pfotis)
