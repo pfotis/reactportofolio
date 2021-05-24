@@ -1,3 +1,20 @@
-.button-container {
+.project-container {
+    padding: 10px;
+    border-style: double;
     margin-bottom: 35px;
+}
+
+.portfolio-pic {
+    margin-bottom: 25px;
+    border-radius: 15px;
+    border-style: solid;
+}
+
+.deployedBtn, .githubBtn {
+    margin-bottom: 25px;
+    width: 100%;
+}
+.project-header {
+    text-align: center;
+    margin-bottom: 30px;
 }

@@ -16,10 +16,10 @@ function Portfolio() {
             <br/>
             <Row>
               <Project
-                name="Code Refactor"
-                imgPath="./assets/images/portofolio/cssFile1.png"
-                linkDeployed="https://pfotis.github.io/code-refactor/"
-                linkGithub="https://github.com/pfotis/code-refactor"
+                name="Car Market"
+                imgPath="./assets/images/portofolio/home.png"
+                linkDeployed="https://boiling-wildwood-96371.herokuapp.com/"
+                linkGithub="https://github.com/pfotis/car-market"
               />
               <Project
                 name="Password Generator"
@@ -88,7 +88,7 @@ function Portfolio() {
                 linkGithub="https://github.com/pfotis/note-taker"
               />
               <Project
-                name="team-profile-generator"
+                name="team-profile"
                 imgPath="./assets/images/portofolio/teamPhoto.png"
                 linkDeployed="https://github.com/pfotis/team-profile-generator"
                 linkGithub="https://github.com/pfotis/team-profile-generator"

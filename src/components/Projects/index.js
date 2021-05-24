@@ -7,7 +7,8 @@ function Project(props) {
     console.log("image", props.imgPath);
   return (
     <Col size="md-4 sm-12">
-      <div className="button-container">
+      <div className="project-container">
+        <h2 className="project-header">{props.name}</h2>
         <img
           className="img-fluid portfolio-pic"
           src={props.imgPath}
@@ -18,14 +19,14 @@ function Project(props) {
           className="btn btn-primary btn-lg btn-block deployedBtn"
           onClick={() => window.open(props.linkDeployed)}
         >
-          {props.name} (Deployed)
+          (Deployed)
         </button>
         <button
           type="button"
           className="btn btn-primary btn-lg btn-block githubBtn"
           onClick={() => window.open(props.linkGithub)}
         >
-          {props.name} (Github)
+          (Github)
         </button>
       </div>
     </Col>
