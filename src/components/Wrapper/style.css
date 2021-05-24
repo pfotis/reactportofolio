@@ -1,0 +1,8 @@
+.wrapper {
+  min-height: 100%;
+  padding-bottom: 100px;
+}
+
+main {
+  background-color: rgb(226, 210, 210);
+}
