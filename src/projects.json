@@ -1,80 +1,80 @@
 [
     {
-        "title" : "Code Refactor",
+        "name" : "Code Refactor",
         "image" : "./assets/images/portofolio/cssFile1.png",
         "webpage" : "https://pfotis.github.io/code-refactor/",
         "repository" : "https://github.com/pfotis/code-refactor"
     },
     {
-        "title" : "Password Generator",
+        "name" : "Password Generator",
         "image" : "./assets/images/portofolio/first_look.png",
         "webpage" : "https://pfotis.github.io/generator-password/",
         "repository" : "https://github.com/pfotis/generator-password"
     },
     {
-        "title" : "Code Quiz",
+        "name" : "Code Quiz",
         "image" : "./assets/images/portofolio/startQuiz.png",
         "webpage" : "https://pfotis.github.io/Code-Quiz/",
         "repository" : "https://github.com/pfotis/Code-Quiz"
     },
     {
        
-        "title" : "Day Planner",
+        "name" : "Day Planner",
         "image" : "./assets/images/portofolio/in_the_begin.png",
         "webpage" : "https://pfotis.github.io/Day-Planner/",
         "repository" : "https://github.com/pfotis/Day-Planner"
     },
     {
        
-        "title" : "Weather Dashboard",
+        "name" : "Weather Dashboard",
         "image" : "./assets/images/portofolio/add_cities.png",
         "webpage" : "https://pfotis.github.io/Weather-Dashboard/",
         "repository" : "https://github.com/pfotis/Weather-Dashboard"
     },
     {
-        "title" : "Melbourne Reboot",
+        "name" : "Melbourne Reboot",
         "image" : "./assets/images/portofolio/APIproject.png",
         "webpage" : "https://h-mai.github.io/APIproject/index.html",
         "repository" : "https://github.com/h-mai/APIproject"
     },
     {
-        "title" : "Portofolio",
+        "name" : "Portofolio",
         "image" : "./assets/images/portofolio/aboutMe.png",
         "webpage" : "https://pfotis.github.io/portofolio/",
         "repository" : "https://github.com/pfotis/portofolio"
     },
     {
-        "title" : "burger",
+        "name" : "burger",
         "image" : "./assets/images/portofolio/first_impress.png",
         "webpage" : "https://secret-garden-47035.herokuapp.com/",
         "repository" : "https://github.com/pfotis/burger"
     },
     {
-        "title" : "Restaurateur",
+        "name" : "Restaurateur",
         "image" : "./assets/images/portofolio/login.png",
         "webpage" : "https://frozen-woodland-65100.herokuapp.com/",
         "repository" : "https://github.com/wendyVo/Project02.git"
     },
     {
-        "title" : "readMe-Generator",
+        "name" : "readMe-Generator",
         "image" : "./assets/images/portofolio/readme1.png",
         "webpage" : "https://drive.google.com/file/d/1W41klD2MLD-vAK8Abcu3CTzQpkCfHNL0/view",
         "repository" : "https://github.com/pfotis/readMe-Generator"
     },
     {
-        "title" : "employee-tracker",
+        "name" : "employee-tracker",
         "image" : "./assets/images/portofolio/employeeList.png",
         "webpage" : "https://drive.google.com/file/d/1mQIzJpGsT2iBNYjOlvrsvdQfpXXiyIcy/view",
         "repository" : "https://github.com/pfotis/employee-tracker"
     },
     {
-        "title" : "note-taker",
+        "name" : "note-taker",
         "image" : "./assets/images/portofolio/index.png",
         "webpage" : "https://arcane-hamlet-40149.herokuapp.com/",
         "repository" : "https://github.com/pfotis/note-taker"
     },
     {
-        "title" : "team-profile-generator",
+        "name" : "team-profile-generator",
         "image" : "./assets/images/portofolio/teamPhoto.png",
         "webpage" : "https://github.com/pfotis/team-profile-generator",
         "repository" : "https://github.com/pfotis/team-profile-generator"

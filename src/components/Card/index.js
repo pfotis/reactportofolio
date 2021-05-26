@@ -2,15 +2,13 @@ import React from "react";
 import Col from "../Col";
 import "./style.css";
 
-function Project(props) {
-
-    console.log("image", props.imgPath);
+function Card(props) {
   return (
-    <Col size="md-4 sm-12">
+    <Col size="lg-4 md-6 sm-12">
       <div className="project-container">
         <h2 className="project-header">{props.name}</h2>
         <img
-          className="img-fluid portfolio-pic"
+          className="img-fluid project-img"
           src={props.imgPath}
           alt={props.name}
         />
@@ -33,4 +31,4 @@ function Project(props) {
   );
 }
 
-export default Project;
+export default Card;
