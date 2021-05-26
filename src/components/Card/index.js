@@ -6,9 +6,9 @@ function Card(props) {
   return (
     <Col size="lg-4 md-6 sm-12">
       <div className="project-container">
-        <h2 className="project-header">{props.name}</h2>
+        <h3 className="project-header">{props.name}</h3>
         <img
-          className="img-fluid project-img"
+          className="project-img"
           src={props.imgPath}
           alt={props.name}
         />

@@ -20,11 +20,8 @@ function Portfolio() {
     <Container>
       <section className="content">
         <Row>
-            <br/>
-            <br/>
             <h2>Portfolio</h2>
             <hr/>
-            <br/>
             {projects.map(project => (
               <Card
                 name = {project.name}

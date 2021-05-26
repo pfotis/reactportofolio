@@ -8,6 +8,8 @@
     margin-bottom: 25px;
     border-radius: 15px;
     border-style: solid;
+    width: 100%;
+    height: 200px;
 }
 
 .deployedBtn, .githubBtn {
@@ -17,4 +19,5 @@
 .project-header {
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 25px;
 }
