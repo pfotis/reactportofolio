@@ -11,9 +11,15 @@ function Footer() {
             <Row>
                 <hr className="clearfix w-100 d-md-none pb-3"/>
                 <div className="col-md-12 mb-md-0 mb-3 links">
-                    <a href="https://www.linkedin.com/in/peter-fotis-6a740a11a/" target="_blank" rel="noreferrer"><SiLinkedin size={30} style={{ fill: 'white' }}/></a>
-                    <a href="https://github.com/pfotis" target="_blank" rel="noreferrer"><SiGithub size={30} style={{ fill: 'white' }}/></a>
-                    <a href="./assets/download/resume.pdf" target="_blank" rel="noreferrer"><FaRegFilePdf size={30} style={{ fill: 'white' }}/></a>
+                    <a href="https://www.linkedin.com/in/peter-fotis-6a740a11a/" target="_blank" rel="noreferrer">
+                        <SiLinkedin size={30} style={{ fill: 'white' }}/>
+                    </a>
+                    <a href="https://github.com/pfotis" target="_blank" rel="noreferrer">
+                        <SiGithub size={30} style={{ fill: 'white' }}/>
+                    </a>
+                    <a href="./assets/download/resume.pdf" target="_blank" rel="noreferrer">
+                        <FaRegFilePdf size={30} style={{ fill: 'white' }}/>
+                    </a>
                 </div>
             </Row>
         </div>

@@ -1,7 +1,6 @@
 import React from "react";
 // import components
-import Container from "../components/Container";
-import Row from "../components/Row";
+import { Container, Row } from "../components/Grid";
 import { FormBtn } from "../components/Form";
 
 function ContactForm() {

@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Container from "../components/Container";
-import Row from "../components/Row";
+import { Container, Row } from "../components/Grid";
 import Card from "../components/Card";
 import data from "../projects.json";
 
@@ -26,8 +25,10 @@ function Portfolio() {
               <Card
                 name = {project.name}
                 imgPath = {project.image}
+                about = {project.about}
                 linkDeployed = {project.webpage}
                 linkGithub = {project.repository}
+                technologies = {project.technologies}
               />
           ))}
         </Row>

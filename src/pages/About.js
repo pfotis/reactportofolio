@@ -1,8 +1,6 @@
 import React from "react";
-import Container from "../components/Container";
 import Image from "../components/Image";
-import Row from "../components/Row";
-import Col from "../components/Col";
+import { Container, Col, Row } from "../components/Grid";
 
 function About() {
   return (
@@ -26,7 +24,7 @@ function About() {
                     experience was not sufficient enough to make me become a professional software developer.
                     Therefore I decided to study a course that could bring me all the skills are required in 
                     this constantly changing industry. During my study, I was not afraid of tacking unknown 
-                    problems or starting rough new project.  I write code, problem solving and working with a 
+                    problems or starting rough new project.  I wrote code, problem solving and worked with a 
                     team to created a web and provide detailed information for the public to search the places 
                     they want to go. The website works very well with testable code and we achieved with A+. 
                 </p>
