@@ -19,7 +19,7 @@
     {
         "name" : "Google Books Search",
         "image" : "./assets/images/portofolio/main.png",
-        "about" : "The user could search for any book and save to favorites .",
+        "about" : "The user could search for any book with the help of the google API and he/she can save the book at the favorites.",
         "webpage" : "https://ancient-cove-11223.herokuapp.com/",
         "repository" : "hhttps://github.com/pfotis/GoogleBooksSearch",
         "technologies" : [
@@ -35,7 +35,7 @@
     {
         "name" : "Password Generator",
         "image" : "./assets/images/portofolio/first_look.png",
-        "about" : "In this app the user can create a unique password , the user could choose the lenght or wi.",
+        "about" : "The user can create a unique password , the user could choose the lenght or type of characters he/she wants to be in the passwrd.",
         "webpage" : "https://pfotis.github.io/generator-password/",
         "repository" : "https://github.com/pfotis/generator-password",
         "technologies" : [
@@ -47,17 +47,13 @@
     {
         "name" : "Code Quiz",
         "image" : "./assets/images/portofolio/startQuiz.png",
-        "about" : "",
+        "about" : "The user could test him/her self about the acknowledgement HTML, javascripr nas CSS",
         "webpage" : "https://pfotis.github.io/Code-Quiz/",
         "repository" : "https://github.com/pfotis/Code-Quiz",
         "technologies" : [
             "React.js",
             "Javascript",
-            "CSS",
-            "Express.js",
-            "Node.js",
-            "MongoDB",
-            "Passport"
+            "CSS"
         ]
     },
     {
