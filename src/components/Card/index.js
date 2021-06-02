@@ -12,7 +12,8 @@ function Card({name, imgPath, about, technologies, linkDeployed, linkGithub}) {
     <Container>
       <Row>
         <Col size="lg-12 md-12 sm-12">
-          <div className="project-container">
+          <div className="project-container" style ={ { backgroundImage: "url('./assets/images/pattern.png')" } }>
+            {/* <img className="background" src="./assets/images/pattern.png" alt="background card"/> */}
             <h3 className="project-header">{name}</h3>
             <Row>
               <Col size="lg-4 md-4 sm-12">

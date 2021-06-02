@@ -17,6 +17,22 @@
         ]
     },
     {
+        "name" : "Google Books Search",
+        "image" : "./assets/images/portofolio/main.png",
+        "about" : "The user could search for any book and save to favorites .",
+        "webpage" : "https://ancient-cove-11223.herokuapp.com/",
+        "repository" : "hhttps://github.com/pfotis/GoogleBooksSearch",
+        "technologies" : [
+            "React.js",
+            "HTML",
+            "Javascript",
+            "CSS",
+            "Express.js",
+            "Node.js",
+            "MongoDB"
+        ]
+    },
+    {
         "name" : "Password Generator",
         "image" : "./assets/images/portofolio/first_look.png",
         "about" : "In this app the user can create a unique password , the user could choose the lenght or wi.",

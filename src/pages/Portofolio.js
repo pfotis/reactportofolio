@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row } from "../components/Grid";
 import Card from "../components/Card";
-import data from "../projects.json";
+import data from "../data/projects.json";
 
 
 function Portfolio() {
