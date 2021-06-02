@@ -1,5 +1,5 @@
 import React from "react";
-import Row from "../Row";
+import { Row } from "../Grid";
 import { SiLinkedin, SiGithub } from 'react-icons/si';
 import { FaRegFilePdf } from 'react-icons/fa';
 import "./style.css";
