@@ -149,39 +149,28 @@
     {
         "name" : "readMe-Generator",
         "image" : "./assets/images/portofolio/readme1.png",
-        "about" : "",
+        "about" : "The user to create a professional readme file for his/her repository",
         "webpage" : "https://drive.google.com/file/d/1W41klD2MLD-vAK8Abcu3CTzQpkCfHNL0/view",
         "repository" : "https://github.com/pfotis/readMe-Generator",
         "technologies" : [
-            "React.js",
-            "Javascript",
-            "CSS",
-            "Express.js",
-            "Node.js",
-            "MongoDB",
-            "Passport"
+            "Node.js"
         ]
     },
     {
         "name" : "employee-tracker",
         "image" : "./assets/images/portofolio/employeeList.png",
-        "about" : "",
+        "about" : "This is a project create a database to help the user to store and search about his/her employee. Addiotional this project work in git bash where the user could use the MySQL.",
         "webpage" : "https://drive.google.com/file/d/1mQIzJpGsT2iBNYjOlvrsvdQfpXXiyIcy/view",
         "repository" : "https://github.com/pfotis/employee-tracker",
         "technologies" : [
-            "React.js",
-            "Javascript",
-            "CSS",
-            "Express.js",
             "Node.js",
-            "MongoDB",
-            "Passport"
+            "MySQL"
         ]
     },
     {
         "name" : "note-taker",
         "image" : "./assets/images/portofolio/index.png",
-        "about" : "",
+        "about" : "The user could store delete or update his/her notes.",
         "webpage" : "https://arcane-hamlet-40149.herokuapp.com/",
         "repository" : "https://github.com/pfotis/note-taker",
         "technologies" : [
@@ -190,8 +179,7 @@
             "CSS",
             "Express.js",
             "Node.js",
-            "MongoDB",
-            "Passport"
+            "Heroku"
         ]
     },
     {
@@ -208,17 +196,12 @@
     {
         "name" : "team-profile-generator",
         "image" : "./assets/images/portofolio/teamPhoto.png",
-        "about" : "",
+        "about" : "The user to create a html file for his/her team's profile. The application work from the git Bash and the user could test the code by typing 'npm run test' and run the code by typing 'node index.js'. To do this the user need to be the same folder with the index.js file.",
         "webpage" : "https://github.com/pfotis/team-profile-generator",
         "repository" : "https://github.com/pfotis/team-profile-generator",
         "technologies" : [
-            "React.js",
-            "Javascript",
-            "CSS",
-            "Express.js",
-            "Node.js",
-            "MongoDB",
-            "Passport"
+            "HTML",
+            "Node.js"
         ]
     }
 ]
