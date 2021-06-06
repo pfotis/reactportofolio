@@ -60,7 +60,7 @@
        
         "name" : "Day Planner",
         "image" : "./assets/images/portofolio/in_the_begin.png",
-        "about" : "",
+        "about" : "The user can post or update or delete events from his schedule. The planner show the user the events if they are ective past or coming.",
         "webpage" : "https://pfotis.github.io/Day-Planner/",
         "repository" : "https://github.com/pfotis/Day-Planner",
         "technologies" : [
