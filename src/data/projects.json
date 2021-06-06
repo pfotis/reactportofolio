@@ -147,6 +147,22 @@
         ]
     },
     {
+        "name" : "Restaurateur",
+        "image" : "./assets/images/portofolio/login.png",
+        "about" : "The user could operate entire restaurant, ordering, keep level the stock, push new order in the kitchen and keep line the orders in the kitchen. ",
+        "webpage" : "https://frozen-woodland-65100.herokuapp.com/",
+        "repository" : "https://github.com/pfotis/Project02",
+        "technologies" : [
+            "Handlebars",
+            "Javascript",
+            "jQuery",
+            "CSS",
+            "Express.js",
+            "MongoDB",
+            "Heroku"
+        ]
+    },
+    {
         "name" : "readMe-Generator",
         "image" : "./assets/images/portofolio/readme1.png",
         "about" : "The user to create a professional readme file for his/her repository",
