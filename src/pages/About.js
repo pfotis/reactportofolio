@@ -1,4 +1,5 @@
 import React from "react";
+// import components
 import Image from "../components/Image";
 import { Container, Col, Row } from "../components/Grid";
 

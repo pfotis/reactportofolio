@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
+// import components
 import { Container, Row } from "../components/Grid";
 import Card from "../components/Card";
+//import data
 import data from "../data/projects.json";
 
 
